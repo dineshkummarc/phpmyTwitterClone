@@ -1,1 +1,2 @@
-# TwitterClone
+# phpmyTwitterClone
+formerly TwitterClone
